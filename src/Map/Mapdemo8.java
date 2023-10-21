@@ -15,6 +15,7 @@ public class Mapdemo8 {
                 count++;
                 map.put(c,count);
             }else {
+
                 map.put(c,1);
             }
         }
